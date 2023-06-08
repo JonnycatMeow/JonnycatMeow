@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 --> 
 
 ## My Trophies
-![](https://github-profile-trophy.vercel.app/?username=mcagabe19&theme=dracula&no-frame=false&no-bg=true&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=mcagabe19&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
